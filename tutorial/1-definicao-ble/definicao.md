@@ -63,7 +63,7 @@ Um hardware de Bluetooth LE opera na faixa de 2,4 GHz, a mesma do Bluetooth clá
 
 ## 1.3 Limitações e Características
 
-| Característica              | Bluetooth Clássico         | Bluetooth Baixo Energia (BLE)      |
+| Característica              | Bluetooth Clássico         | Bluetooth Low Energy (BLE)      |
 |------------------------------|-----------------------------|------------------------------------|
 | **Frequência**               | 2,4 GHz                     | 2,4 GHz                            |
 | **Alcance de Cobertura**     | 10 a 100 metros             | Geralmente 5 a 10 metros (pode chegar a 150 metros em campo aberto) |
@@ -75,7 +75,7 @@ Um hardware de Bluetooth LE opera na faixa de 2,4 GHz, a mesma do Bluetooth clá
 | **Topologia**                | Ponto a Ponto (1:1)         | Ponto a Ponto (1:1), Broadcast (1: n), Malha (n: n) |
 
 
-No entanto, **é importante frisar que esses valores são apenas uma média geral, pois muda dependendo de vários fatores.** Por exemplo, o ALCANCE depende da potência de transmissão e das condições do ambiente (paredes, interferências, etc.). O próprio site do Bluetooth tem uma calculadora para ajudar a ter uma ideia do alcance esperado, dependendo das configurações que você colocar. Veja em [Understanding Bluetooth® range](https://www.bluetooth.com/learn-about-bluetooth/key-attributes/range/)
+No entanto, **é importante frisar que esses valores são apenas uma média geral, pois muda dependendo de vários fatores.** Por exemplo, o alcance depende da potência de transmissão e das condições do ambiente (paredes, interferências, etc.). O próprio site do Bluetooth tem uma calculadora para ajudar a ter uma ideia do alcance esperado, dependendo das configurações que você colocar. Veja em [Understanding Bluetooth® range](https://www.bluetooth.com/learn-about-bluetooth/key-attributes/range/)
 
 ---
 > A especificação do Bluetooth LE é extensa, com milhares de páginas. Se quiser se aprofundar, veja veja [aqui](https://www.bluetooth.com/specifications/specs/core-specification-6-0/)
