@@ -83,3 +83,16 @@ static void setup_system(void)
     }
 }
 ```
+Depois, basta chamarmos `setup_system` na main para que o projeto seja finalizado.
+
+```c
+int main(void)
+{
+    setup_system(); // Configura o sistema
+    while (true)
+    {
+    }
+    return 0;
+}
+```
+## [Voltar](../implementacao.md#considerações-finais)

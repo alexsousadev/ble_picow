@@ -19,4 +19,22 @@ Cada capítulo será abordado separadamente a seguir.
 
 
 ---
+## Considerações Finais
+
+O projeto completo pode ser acessado na pasta `src` para download. Para realizar os testes de conexão, pode ser utilizado qualquer aplicação que suporte conexão Bluetooth LE. Exemplos:
+
+- [nRF Connect](https://play.google.com/store/apps/details?id=no.nordicsemi.android.mcp&hl=en) (Android)
+- [toolBLEx](https://github.com/emericg/toolBLEx) (Linux)
+- [nRF Connect for Desktop](https://github.com/NordicSemiconductor/pc-nrfconnect-launcher) (Windows)
+- [LightBlue](https://apps.apple.com/br/app/lightblue/id557428110) (iOS)
+
+Um exemplo do que será visto no dispositivo conectado (utilizando o nRF Connect):
+
+<p align="center">
+    <img src="../../images/result-connection-ble.webp" alt="Resultado da conexão BLE" width="600"/>
+</p>
+
+
+
+---
 ## [Voltar](../../README.md#conclusão)
